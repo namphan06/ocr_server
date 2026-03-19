@@ -1,6 +1,6 @@
-FROM python:3.9-slim-bullseye
+FROM python:3.9-slim
 
-# Cài đặt dependencies cần thiết cho Tesseract, Poppler, và OpenCV
+# Cài đặt các gói hệ thống cần thiết
 RUN apt-get update && apt-get install -y \
     tesseract-ocr \
     tesseract-ocr-vie \
@@ -11,25 +11,19 @@ RUN apt-get update && apt-get install -y \
     && apt-get clean \
     && rm -rf /var/lib/apt/lists/*
 
-# Set environment variables
-ENV TESSDATA_PREFIX=/usr/share/tessdata
+# Thiết lập biến môi trường cho Tesseract trên Linux
+# (Trên Render/Debian, dữ liệu nằm ở /usr/share/tesseract-ocr/5/tessdata hoặc /usr/share/tesseract-ocr/tessdata)
+ENV TESSDATA_PREFIX=/usr/share/tesseract-ocr/5/tessdata
 
-# Set working directory
+# Một số hệ thống Linux tìm ở /usr/share/tessdata, ta tạo symlink để an toàn
+RUN ln -s /usr/share/tesseract-ocr/5/tessdata /usr/share/tessdata || true
+
 WORKDIR /app
-
-# Copy requirements và install Python packages
 COPY requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt
 
-# Copy source code
-COPY ocr_service.py .
-COPY ocr_server.py .
+COPY . .
+RUN mkdir -p uploads results && chmod 777 uploads results
 
-# Tạo thư mục uploads và results
-RUN mkdir -p uploads results
-
-# Expose port
-EXPOSE 5000
-
-# Run server
+EXPOSE 10000
 CMD ["python", "ocr_server.py"]
