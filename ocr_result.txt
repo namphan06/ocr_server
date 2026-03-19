@@ -1,0 +1,220 @@
+==================================================
+TOAN BO TEXT TRICH XUAT
+==================================================
+=== Trang 1 ===
+PHAN VU HOAI NAM
+
+@ namphan06124@gmail.com % 0969294861
+9 Duong Lam, Van Quan, Ha Ding, Ha Néi
+
+HOC VAN
+
+Cong nghé thong tin
+Truong Dai hoc Phenikaa
+A} 2022 — 2026
+
+Q Ha Dong, Ha Noi
+
+DU AN TAI TRUGNG
+
+e Campus Meal
+https: //github.com/phannam06/Campus-Meal
+Nhoém: 3 thanh vién
+
+e Tax Calculation
+https: //github.com/phannam06/Tax-Caculation
+Nhoém: 2 thanh vién
+
+e® np_carrer
+https://github.com/namphan06/np_carrer
+Nhoém: 1 thanh vién
+M6 ta:
+Mét nén tang tuyén dung hé trod hai vai trd chinh: cong ty va ting vién.
+e Ung dung di dong duoc xay dung bing Flutter/Dart.
+e Sit dung Firebase dé quan ly cdc dit liéu hé théng chinh nhu:
+e Tai khoan ngudi ding
+e Bai dang viéc lam
+e Hoat dong va tuong tac cua nguédi ding
+e Quan ly hinh anh thong qua Cloudinary, hé tra:
+e Tai anh lén nhanh chéng
+e T6i wu hoa dung lugng va hién thi anh trén nhiéu thiét bi
+e Trang quan tri web riéng biét dudc phat trién bang Laravel + SQL dé:
+e Quan ly cdc céng cu hé tro phia ngudi ding
+e Tach biét hoan toan khoi dit liéu nguoi ding chinh
+e Tich hgp cac tinh nang AI:
+e Dé xuat cong viéc phi: hdp vdi hé so ting vien
+e Phan tich tri thong minh da dang (MI) thong qua cac bai trac nghiém
+Dy an hién dang ducc phat trién va cai tién vé giao dién va thém 1 sé
+chitc nang
+Demo : https: //youtu.be
+e Bé6 sung vai trd Nha truéng, cho phép:
+e Tao tin tuyén dung tudng tu nhu nha tuyén dung
+e Lién két vdi cdc doanh nghiép déi tac dé dang tai co hdi viéc lam cho
+sinh vién
+e Theo déi va xem danh gid phong van, danh gia qua trinh thuc tap
+hoac lam viéc cia sinh vién (khi dudc nha tuyén dung cho phép)
+e Tich hop EmailJS dé giti email tu dong dén ting vién, bao gém:
+e Thong bao tring tuyén
+e Thong bao tt chédi
+e Cac thong bao lién quan khac trong qua trinh tuyén dung
+e Sit dung Firebasc Cloud Messaging (FCM) dé giti thong bao truc tiép
+dén thiét bi di déng cilia ngudéi ding
+
+MUC TIEU NGHE
+NGHIEP
+
+"T6i dinh huéng phat trién su nghiép
+trong linh vuc phan mém, diac biét 1a
+phat tri¢én ttng dung. Bén canh do,
+toi cing quan tam dén cdc xu hu6éng
+cong nghé mdi nhu AI va cach ching
+duoc ting dung dé cai thién san
+pham. Téi mong mu6n c6 co héi lam
+viéc trong m6i truéng cong nghé
+ning dong, noi toi c6 thé Ap dung
+kién thitc phan mém ctia minh, déng
+thdi mé rong hitu biét vé cdc cong
+nghé hién dai dé nang cao chat hicng
+cong viéc va déng gdp hiéu qua vao
+cac du an."
+
+KY NANG
+Flutter & Dart
+
+Firebase & Supabase
+MongoDB, SQL, MySQL
+Python, Java, C++
+ReactJS & NodeJS
+
+REST API
+Git & Version Control
+
+Figma
+
+GIAI THUONG
+
+S Top 3 Hackathon DENSO Factory
+Hacks 2025
+Cuéc thi hackathon vé gidi phap cong
+nghé trong m6éi truéng nha may
+
+DENSO
+
+
+
+=== Trang 2 ===
+e Ap dung Supabase lam co sé dit liéu chinh cho hé théng trong tuong lai
+
+e Dinh huéng tich hop AI dé tu déng hoa va hé tro xt ly mét sé nghiép
+vu nhu:
+e Tom t&t tin tuyén dung
+
+e H6 tro danh gia va sang loc ting vién
+
+e Tao cdc cau hoi phong van dua vao m6 ta cong viéc
+
+==================================================
+TUNG DONG
+==================================================
+1. === Trang 1 ===
+2. PHAN VU HOAI NAM
+3. @ namphan06124@gmail.com % 0969294861
+4. 9 Duong Lam, Van Quan, Ha Ding, Ha Néi
+5. HOC VAN
+6. Cong nghé thong tin
+7. Truong Dai hoc Phenikaa
+8. A} 2022 — 2026
+9. Q Ha Dong, Ha Noi
+10. DU AN TAI TRUGNG
+11. e Campus Meal
+12. https: //github.com/phannam06/Campus-Meal
+13. Nhoém: 3 thanh vién
+14. e Tax Calculation
+15. https: //github.com/phannam06/Tax-Caculation
+16. Nhoém: 2 thanh vién
+17. e® np_carrer
+18. https://github.com/namphan06/np_carrer
+19. Nhoém: 1 thanh vién
+20. M6 ta:
+21. Mét nén tang tuyén dung hé trod hai vai trd chinh: cong ty va ting vién.
+22. e Ung dung di dong duoc xay dung bing Flutter/Dart.
+23. e Sit dung Firebase dé quan ly cdc dit liéu hé théng chinh nhu:
+24. e Tai khoan ngudi ding
+25. e Bai dang viéc lam
+26. e Hoat dong va tuong tac cua nguédi ding
+27. e Quan ly hinh anh thong qua Cloudinary, hé tra:
+28. e Tai anh lén nhanh chéng
+29. e T6i wu hoa dung lugng va hién thi anh trén nhiéu thiét bi
+30. e Trang quan tri web riéng biét dudc phat trién bang Laravel + SQL dé:
+31. e Quan ly cdc céng cu hé tro phia ngudi ding
+32. e Tach biét hoan toan khoi dit liéu nguoi ding chinh
+33. e Tich hgp cac tinh nang AI:
+34. e Dé xuat cong viéc phi: hdp vdi hé so ting vien
+35. e Phan tich tri thong minh da dang (MI) thong qua cac bai trac nghiém
+36. Dy an hién dang ducc phat trién va cai tién vé giao dién va thém 1 sé
+37. chitc nang
+38. Demo : https: //youtu.be
+39. e Bé6 sung vai trd Nha truéng, cho phép:
+40. e Tao tin tuyén dung tudng tu nhu nha tuyén dung
+41. e Lién két vdi cdc doanh nghiép déi tac dé dang tai co hdi viéc lam cho
+42. sinh vién
+43. e Theo déi va xem danh gid phong van, danh gia qua trinh thuc tap
+44. hoac lam viéc cia sinh vién (khi dudc nha tuyén dung cho phép)
+45. e Tich hop EmailJS dé giti email tu dong dén ting vién, bao gém:
+46. e Thong bao tring tuyén
+47. e Thong bao tt chédi
+48. e Cac thong bao lién quan khac trong qua trinh tuyén dung
+49. e Sit dung Firebasc Cloud Messaging (FCM) dé giti thong bao truc tiép
+50. dén thiét bi di déng cilia ngudéi ding
+51. MUC TIEU NGHE
+52. NGHIEP
+53. "T6i dinh huéng phat trién su nghiép
+54. trong linh vuc phan mém, diac biét 1a
+55. phat tri¢én ttng dung. Bén canh do,
+56. toi cing quan tam dén cdc xu hu6éng
+57. cong nghé mdi nhu AI va cach ching
+58. duoc ting dung dé cai thién san
+59. pham. Téi mong mu6n c6 co héi lam
+60. viéc trong m6i truéng cong nghé
+61. ning dong, noi toi c6 thé Ap dung
+62. kién thitc phan mém ctia minh, déng
+63. thdi mé rong hitu biét vé cdc cong
+64. nghé hién dai dé nang cao chat hicng
+65. cong viéc va déng gdp hiéu qua vao
+66. cac du an."
+67. KY NANG
+68. Flutter & Dart
+69. Firebase & Supabase
+70. MongoDB, SQL, MySQL
+71. Python, Java, C++
+72. ReactJS & NodeJS
+73. REST API
+74. Git & Version Control
+75. Figma
+76. GIAI THUONG
+77. S Top 3 Hackathon DENSO Factory
+78. Hacks 2025
+79. Cuéc thi hackathon vé gidi phap cong
+80. nghé trong m6éi truéng nha may
+81. DENSO
+82. === Trang 2 ===
+83. e Ap dung Supabase lam co sé dit liéu chinh cho hé théng trong tuong lai
+84. e Dinh huéng tich hop AI dé tu déng hoa va hé tro xt ly mét sé nghiép
+85. vu nhu:
+86. e Tom t&t tin tuyén dung
+87. e H6 tro danh gia va sang loc ting vién
+88. e Tao cdc cau hoi phong van dua vao m6 ta cong viéc
+
+==================================================
+DO TIN CAY TRUNG BINH
+==================================================
+0.00%
+
+==================================================
+CAC FIELD TU DONG PHAT HIEN
+==================================================
+https: //github.com/namphan06/np_carrer
+Nhoém: 1 thanh vién
+Mét nén tang tuyén dung hé trod hai vai trd chinh: cong ty va ting vién.
+e Dé xuat cong viéc phi: hdp vdi hé so ting vien
+Demo: https: //youtu.be
