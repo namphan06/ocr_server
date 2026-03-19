@@ -13,12 +13,19 @@ import sys
 import json
 
 # Cấu hình đường dẫn Tesseract
-pytesseract.pytesseract.tesseract_cmd = r'C:\Users\THINKBOOK\AppData\Local\Programs\Tesseract-OCR\tesseract.exe'
+if os.name == 'nt':  # Windows
+    pytesseract.pytesseract.tesseract_cmd = r'C:\Users\THINKBOOK\AppData\Local\Programs\Tesseract-OCR\tesseract.exe'
+else:  # Linux (Render)
+    pytesseract.pytesseract.tesseract_cmd = 'tesseract'
 
 # Cấu hình đường dẫn Poppler
-current_dir = os.path.dirname(os.path.abspath(__file__))
-poppler_path = os.path.join(current_dir, 'poppler-25.12.0', 'Library', 'bin')
-os.environ['PATH'] = poppler_path + ';' + os.environ['PATH']
+if os.name == 'nt':  # Windows
+    current_dir = os.path.dirname(os.path.abspath(__file__))
+    poppler_path = os.path.join(current_dir, 'poppler-25.12.0', 'Library', 'bin')
+    os.environ['PATH'] = poppler_path + ';' + os.environ['PATH']
+else:  # Linux (Render)
+    # Trên Render (Linux), Poppler được cài qua system package
+    pass
 
 
 def preprocess_image(img, scale=2):
